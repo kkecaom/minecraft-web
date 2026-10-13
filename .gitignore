@@ -1,0 +1,13 @@
+# local-only folders: rendered videos and the shelved Mineflayer bot
+/video/
+/mcbot/
+node_modules/
+*.log
+.claude/
+
+# only the screenshots used by the README are published
+/screenshots/*
+!/screenshots/vah_medoh_1_perched.jpg
+!/screenshots/vah_medoh_5_hall.jpg
+!/screenshots/vah_medoh_6_village.jpg
+!/screenshots/overworld.jpg
